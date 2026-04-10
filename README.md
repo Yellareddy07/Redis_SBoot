@@ -1,7 +1,7 @@
 This is the example project of using REDIS in SpringBoot.
 It includes adding user, deleting and retrieving the user.
 
-** Project Flow **
+Project Flow :
 Client (Postman / Browser)
         ↓
 Controller
